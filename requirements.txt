@@ -1,0 +1,4 @@
+psycopg2==2.7.1
+requests==2.9.1
+requests-cache==0.4.13
+xlrd==1.0.0
