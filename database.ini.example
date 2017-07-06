@@ -1,0 +1,5 @@
+[postgresql]
+host=IP_ADDRESS OR LOCALHOST
+database=DATABASENAME
+user=USERNAME
+password=PASSWORD
